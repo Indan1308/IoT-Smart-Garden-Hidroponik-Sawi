@@ -16,9 +16,9 @@ CTBotInlineKeyboard TbPm1on, TbPm1off;
 int Pompa_1 = HIGH;
 
 // Konfigurasi Wi-Fi & Bot
-const char* ssid = "404 NOT Fond";
-const char* pass = "Indanbaka4320";
-const char* token = "8172354076:AAHKxOcNBZD14uWLWAHTDxkzpHqTSnp7GqM";
+const char* ssid = "";
+const char* pass = "";
+const char* token = "";
 
 // Variabel Waktu untuk Non-Blocking Auto-Reconnect
 unsigned long previousMillis = 0;
